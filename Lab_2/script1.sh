@@ -1,0 +1,2 @@
+echo "Shellscripting is fun"
+
